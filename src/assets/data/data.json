@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "CV en ligne",
+        "information":
+        "Après la partie théorique, place à la pratique. Ceci est le premier projet que j'ai réalisé : créer un CV grâce aux connaissances acquises durant la formation. CV réalisé sur la base d'une maquette fournie.",
+        "language" : "Html / Css",
+        "img": "../cv_minia.png",
+        "date":"20/12/2023",
+        "gitHub":"https://github.com/Leillen59/CV_en_ligne"
+    },
+    {
+        "id": 2,
+        "title": "Cahier des charges",
+        "information":
+        "Afin de découvrir une partie importante de la prise en charge client, une création, via les connaissances acquises sur le cahier des charges, a été demandée.",
+        "language" : "PDF",
+        "img": "../logo_cdc.png",
+        "date":"12/01/2024",
+        "gitHub":"https://github.com/Leillen59/Cahier-des-charges"
+    },
+    {
+        "id": 3,
+        "title": "Dynamiser un espace commentaire",
+        "information":
+        "Apprentissage du JavaScript en rendant une page de commentaires dynamique.",
+        "language" : "HTML / CSS / JavaScript",
+        "img": "../com_minia.png",
+        "date":"12/02/2024",
+        "gitHub":""
+    }
+]

@@ -1,0 +1,15 @@
+@import './base.css';
+@font-face {
+    font-family: "Anta-Regular" ;
+    src:
+    local("Anta-Regular")
+    url(../fonts/Anta-Regular.otf) format("opentype"),
+    url(../fonts/Anta-Regular.woff) format("woff");
+}
+@font-face {
+    font-family: "OpenSans-Regular";
+    src: 
+    local("OpenSans-Regular")
+    url(../fonts/OpenSans-Regular.otf) format("opentype"),
+    url(../fonts/OpenSans-Regular.woff) format("woff");
+}
